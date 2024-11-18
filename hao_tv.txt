@@ -1,17 +1,17 @@
 
 全部,#genre#
-卫视,http://zby.xjqxz.top/hkdy1/live.m3u8
-卫视0,http://zby.xjqxz.top/hkdy2/live.m3u8
-卫视1,http://zby.xjqxz.top/live18/live.m3u8
-卫视2,http://zby.xjqxz.top/gcwx2/live.m3u8
-卫视3,http://zby.xjqxz.top/gcwx3/live.m3u8
-卫视4,http://zby.xjqxz.top/gcwx4/live.m3u8
-小苹果,http://zby.xjqxz.top/gcwx5/live.m3u8
+港片轮播1,http://zby.xjqxz.top/hkdy1/live.m3u8
+港片轮播20,http://zby.xjqxz.top/hkdy2/live.m3u8
+国产院线1,http://zby.xjqxz.top/live18/live.m3u8
+国产院线2,http://zby.xjqxz.top/gcwx2/live.m3u8
+国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
+国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
+国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
 小苹果0,http://zby.xjqxz.top/live12/live.m3u8
 小苹果1,http://zby.xjqxz.top/lljdy/live.m3u8
-小苹果2,http://zby.xjqxz.top/cldy/live.m3u8
+成龙专辑轮播,http://zby.xjqxz.top/cldy/live.m3u8
 小苹果3,http://zby.xjqxz.top/hlwdy1/live.m3u8
-小苹果4,http://zby.xjqxz.top/live13/live.m3u8
+谍战专用频道,http://zby.xjqxz.top/live13/live.m3u8
 小苹果5,http://zby.xjqxz.top/kzzypd/live.m3u8
 小苹果6,http://zby.xjqxz.top/dzzypd/live.m3u8
 小苹果7,http://zby.xjqxz.top/dzzypd2/live.m3u8
