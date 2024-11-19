@@ -257,7 +257,8 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
 
 河北其他,#genre#
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1732043566&k=59017cab479dfed665e4eea947a662ee
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?k=59017cab479dfed665e4eea947a662ee
+河北影视剧,https://tv.pull.hebtv.com/zhibo/yingshijupindao-577287543.ts?ctyun_app=zhibo&ctyun_stream=yingshijupindao&ctyun_rate=0.000&ctyun_starttime=1731953249519
 
 浙江其他,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
