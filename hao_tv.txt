@@ -476,8 +476,8 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 许冠英合集,https://live.metshop.top/huya/11601972
 经典港剧,https://live.metshop.top/huya/11352965
 电影_强森,https://live.metshop.top/huya/21059581
-电影_贺岁,https://live.metshop.top/huya/21059581
-电影_贺岁2,https://live.metshop.top/huya/11601971
+电影_强森,https://live.metshop.top/huya/21059581
+电影_贺岁,https://live.metshop.top/huya/11601971
 电影_怪兽,https://live.metshop.top/huya/21059577
 电影_救援,https://live.metshop.top/huya/21059594
 电影_盗墓,https://live.metshop.top/huya/21059552
