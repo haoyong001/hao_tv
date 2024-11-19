@@ -1,8 +1,6 @@
 
 全部,#genre#
 
-
-
 央视频道,#genre#
 CCTV1,http://kxrj.site:998/123/mg.php?id=cctv1
 CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2
@@ -257,6 +255,9 @@ CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 卡酷少儿,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
 金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
+
+河北其他,#genre#
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8
 
 浙江其他,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
