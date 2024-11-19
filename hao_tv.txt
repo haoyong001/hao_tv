@@ -1,6 +1,8 @@
 
 全部,#genre#
 
+
+
 央视频道,#genre#
 CCTV1,http://kxrj.site:998/123/mg.php?id=cctv1
 CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2
@@ -155,6 +157,64 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+CCTV1高清,http://1b6467f415.iok.la:9931/tsfile/live/1020_1.m3u8
+CCTV2高清,http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8
+CCTV3高清,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
+CCTV4高清,http://1b6467f415.iok.la:9931/tsfile/live/1023_1.m3u8
+CCTV5高清,http://1b6467f415.iok.la:9931/tsfile/live/1024_1.m3u8
+CCTV5+高清,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
+CCTV6高清,http://1b6467f415.iok.la:9931/tsfile/live/1026_1.m3u8
+CCTV7高清,http://1b6467f415.iok.la:9931/tsfile/live/1027_1.m3u8
+CCTV8高清,http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8
+CCTV9高清,http://1b6467f415.iok.la:9931/tsfile/live/1029_1.m3u8
+CCTV10高清,http://1b6467f415.iok.la:9931/tsfile/live/1030_1.m3u8
+CCTV11高清,http://1b6467f415.iok.la:9931/tsfile/live/1031_1.m3u8
+CCTV12高清,http://1b6467f415.iok.la:9931/tsfile/live/1032_1.m3u8
+CCTV13高清,http://1b6467f415.iok.la:9931/tsfile/live/1033_1.m3u8
+CCTV14高清,http://1b6467f415.iok.la:9931/tsfile/live/1034_1.m3u8
+CCTV-16高清,http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
+CCTV15高清,http://1b6467f415.iok.la:9931/tsfile/live/1035_1.m3u8
+CCTV17高清,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
+
+地方卫视高清,#genre#
+湖南卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1058_1.m3u8
+浙江卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8
+江苏卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
+东方卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
+安徽卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1062_1.m3u8
+北京卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1063_1.m3u8
+天津卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1064_1.m3u8
+山东卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1065_1.m3u8
+江西卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1066_1.m3u8
+深圳卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1067_1.m3u8
+湖北卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1068_1.m3u8
+辽宁卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1069_1.m3u8
+黑龙江卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1070_1.m3u8
+贵州卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1071_1.m3u8
+四川卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1072_1.m3u8
+重庆卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1073_1.m3u8
+河北卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1074_1.m3u8
+东南卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8
+广西卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1082_1.m3u8
+吉林卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1076_1.m3u8
+中国教育高清,http://1b6467f415.iok.la:9931/tsfile/live/1077_1.m3u8
+金鹰纪实高清,http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8
+河源公共高清,http://1b6467f415.iok.la:9931/tsfile/live/1079_1.m3u8
+上海纪实高清,http://1b6467f415.iok.la:9931/tsfile/live/1080_1.m3u8
+云南卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8
+陕西卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1083_1.m3u8
+山西卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1084_1.m3u8
+内蒙古卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1085_1.m3u8
+青海卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1086_1.m3u8
+海南卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1087_1.m3u8
+宁夏卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1088_1.m3u8
+西藏卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1089_1.m3u8
+新疆卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1090_1.m3u8
+甘肃卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1091_1.m3u8
+兵团卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1092_1.m3u8
+厦门卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
+三沙卫视高清,http://1b6467f415.iok.la:9931/tsfile/live/1038_1.m3u8
+
 地方卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
@@ -176,7 +236,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-云南卫视8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -191,6 +251,12 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 
+动画动漫,#genre#
+少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
+卡酷少儿,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
+金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
+炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
+
 浙江其他,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -201,9 +267,22 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+广东频道,#genre#
+广州影视高清,http://1b6467f415.iok.la:9931/tsfile/live/1018_1.m3u8
+广州综合高清,http://1b6467f415.iok.la:9931/tsfile/live/1137_1.m3u8
+广州新闻高清,http://1b6467f415.iok.la:9931/tsfile/live/1138_1.m3u8
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+
 湾湾频道,#genre#
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -229,9 +308,52 @@ tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
 湾湾戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
 国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 tvbs精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
 tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+国会频道①,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道②,http://litv.zapi.us.kg/?id=4gtv-4gtv085
+好消息①,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息②,http://litv.zapi.us.kg/?id=litv-ftv17
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无线①,http://litv.zapi.us.kg/?id=litv-longturn10
+博斯无线②,http://litv.zapi.us.kg/?id=litv-longturn13
+阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+达文西,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
+半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
+中天亚洲,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
+数位电影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+Amc电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+SMArt知识,http://litv.zapi.us.kg/?id=litv-longturn19
+韩国娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+三立戏剧,http://61.221.215.25:8800/hls/9/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/55/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/56/index.m3u8
 
 全球频道,#genre#
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -260,11 +382,16 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 综合频道15,http://zby.xjqxz.top/zh15/live.m3u8
 
 中国港澳,#genre#
+无线翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+无线星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+无线明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 凤凰卫视,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -300,6 +427,13 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 电视剧轮播,#genre#
 精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
+
+电影频道,#genre#
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+每日影院HD,http://1b6467f415.iok.la:9931/tsfile/live/1045_1.m3u8
+
 
 IPV6央视,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
@@ -363,9 +497,9 @@ IPV6地方卫视,#genre#
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 IPV6电影,#genre#
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+CHC家庭高清,http://1b6467f415.iok.la:9931/tsfile/live/1046_1.m3u8
+CHC动作高清,http://1b6467f415.iok.la:9931/tsfile/live/1047_1.m3u8
+CHC高清高清,http://1b6467f415.iok.la:9931/tsfile/live/1126_1.m3u8
 
 电影轮播,#genre#
 
